@@ -1,8 +1,8 @@
 -- These comments were written as of 2023-2024, and is not reflective of my current state as a programmer.
 --
--- I don't program using Python or Java or C# of that matter, I use a variant of Lua called Luau
+-- I use a variant of Lua called Luau
 -- It's used in the game ROBLOX, and mainly used on its creation engine known as ROBLOX Studio
--- This is the part where I am most proficient in - I have spent well over 6 years familiarizing myself with the API and learning all the ins and outs of the engine.
+-- This is the part where I am most proficient in - I've been familiarizing myself with the API and learning all the ins and outs of the engine since 2017-2018.
 -- If needed, I can send videos of my games and works, but here I am going to deposit some pieces of code proving my familiarity with programming.
 -- I have never used GitHub for storing code (which explains why this account was created just now), but I *have* used GitHub to get code as reference
 
