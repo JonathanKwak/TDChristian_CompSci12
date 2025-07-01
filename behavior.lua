@@ -4,7 +4,6 @@
 -- It's used in the game ROBLOX, and mainly used on its creation engine known as ROBLOX Studio
 -- This is the part where I am most proficient in - I've been familiarizing myself with the API and learning all the ins and outs of the engine since 2017-2018.
 -- If needed, I can send videos of my games and works, but here I am going to deposit some pieces of code proving my familiarity with programming.
--- I have never used GitHub for storing code (which explains why this account was created just now), but I *have* used GitHub to get code as reference
 
 local module = {}
 local stanFuncs = require(game.ReplicatedStorage.Modules.StandardizedFunctions)
